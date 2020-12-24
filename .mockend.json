@@ -1,0 +1,8 @@
+{
+	"Get": {
+		"title":"string",
+		"views":"int",
+		"published":"boolean",
+		"createdAt":"date"
+	}
+}
