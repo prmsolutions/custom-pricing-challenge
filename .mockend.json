@@ -1,5 +1,17 @@
 {
-	"Get": {
+	"Voltaire": {
+		"title":"string",
+		"views":"int",
+		"published":"boolean",
+		"createdAt":"date"
+	},
+	"Leibniz": {
+		"title":"string",
+		"views":"int",
+		"published":"boolean",
+		"createdAt":"date"
+	},
+	"Bentham": {
 		"title":"string",
 		"views":"int",
 		"published":"boolean",
