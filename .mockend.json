@@ -2,16 +2,26 @@
 	"Voltaire": {
 		"priceGrp":"string",
 		"productId":"int",
+		"data":"VoltaireData"
+	},
+	"VoltaireData": {
 		"custPrice":"int"
 	},
 	"Leibniz": {
 		"pg":"string",
 		"pid":"int",
+		"data":"LeibnizData"
+	},
+	"LeibnizData": {
 		"clprx":"int"
 	},
 	"Bentham": {
 		"client_pricing_segment":"string",
 		"product_code":"int",
+		"data":"BenthamData"
+	},
+	"BenthamData":{
 		"product_price":"int"
 	}
+
 }
