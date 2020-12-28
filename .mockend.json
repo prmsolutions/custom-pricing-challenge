@@ -1,20 +1,17 @@
 {
 	"Voltaire": {
-		"title":"string",
-		"views":"int",
-		"published":"boolean",
-		"createdAt":"date"
+		"priceGrp":"string",
+		"productId":"int",
+		"custPrice":"int"
 	},
 	"Leibniz": {
-		"title":"string",
-		"views":"int",
-		"published":"boolean",
-		"createdAt":"date"
+		"pg":"string",
+		"pid":"int",
+		"clprx":"int"
 	},
 	"Bentham": {
-		"title":"string",
-		"views":"int",
-		"published":"boolean",
-		"createdAt":"date"
+		"client_pricing_segment":"string",
+		"product_code":"int",
+		"product_price":"int"
 	}
 }
